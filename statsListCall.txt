@@ -1,0 +1,7 @@
+Main> statsList
+
+[("couch",[[("couch","right",4),("e","right",3),("table","right",1)],[("couch","below",5),("e","below",2),("table","below",2)]]),
+("table",[[("e","right",5),("table","right",2),("lamp","right",1),("couch","right",1)],[("couch","below",4),("e","below",3),("table","below",2)]]),
+("lamp",[[("table","right",2)],[("e","below",2)]]),
+("tv",[[("e","right",3),("tv","right",2)],[("e","below",5),("tv","below",3)]]),
+("e",[[("e","right",15),("table","right",5),("couch","right",3),("tv","right",3),("lamp","right",2)],[("tv","below",2),("e","below",15),("table","below",6),("lamp","below",1)]])]
